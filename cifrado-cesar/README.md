@@ -24,7 +24,7 @@ Tu código debe estar compuesto por 2 funciones con los siguientes nombres: ciph
 El usuario no debe poder ingresar un campo vacío o que contenga números.
 /*
 
-## pseudocódigo
+## Pseudocódigo
 1. Por medio de un prompt() pedir al usuario que ingrese una frace.
 
 2.  El codigo tendra 2 fuciones con los nombres: cipher y decipher.
